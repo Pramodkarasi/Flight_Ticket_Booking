@@ -876,7 +876,7 @@ div.card {
                 </div>
             </div>
 			</div>
-<!-- <div class="conatiner-fluid p-4" style="background-color: whitesmoke;margin-top:150px;"> -->
+
  
 	</div>
 	<footer class="mt-5">
@@ -884,9 +884,7 @@ div.card {
 				<img src="assets/images/airtic.png" 
 					height="40px" width="40px" alt="">				
 			Online Flight Booking</h5></em>
-	<div class="text-light text-center">&copy; <?php echo date('Y')?> - Developed By Sujoy Dcunha, Christina Pereira, Mark Coutinho<br><br></div>
-	<!-- <p>----------</p> -->
-	
+
 	</footer>	
 
     <?php subview('footer.php'); ?> 
